@@ -1,5 +1,5 @@
 # algorithin-fie-creation
-Write a complete C or C++ program to implement a file processor. Your program should have the following menu. Write necessary functions for the menu:
+Write a complete C++ program to implement a file processor. Your program should have the following menu. Write necessary functions for the menu:
 
 Menu:
 
@@ -8,3 +8,4 @@ Menu:
 3- copy without spaces 
 4- merge files 
 5- Quit
+And no copying from the internet 
