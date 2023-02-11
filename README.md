@@ -8,4 +8,4 @@ Menu:
 3- copy without spaces 
 4- merge files 
 5- Quit
-And no copying from the internet 
+It can be written in both c and c++ but preferably c
